@@ -160,6 +160,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        Maklad\Permission\PermissionServiceProvider::class,
     ],
 
     /*
